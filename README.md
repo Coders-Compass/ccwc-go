@@ -49,8 +49,12 @@ $ ccwc -lw test.txt
     7145   58164 test.txt
 
 $ ccwc -c README.md
-     1110 README.md
+     1271 README.md
 ```
+
+## Inspiration
+
+The prompt for this project was provided by Coding Challenges: [Build Your Own wc Tool](https://codingchallenges.fyi/challenges/challenge-wc/).
 
 ## License
 MIT License

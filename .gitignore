@@ -1,0 +1,11 @@
+# Editor configs
+.idea
+
+# Scratch files
+scratch
+
+# Executables
+ccwc
+wc
+*.exe
+
